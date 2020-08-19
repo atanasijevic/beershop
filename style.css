@@ -1,0 +1,84 @@
+.wrapper {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color:rgb(17, 13, 13);
+    text-align: center;
+
+}
+
+.nav {
+    display: inline;
+   padding: 4%;
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: large;
+  
+}
+
+a {
+    text-decoration-line: none;
+    color: rgb(197, 174, 139);
+}
+ a:hover {
+     text-decoration-line: none;
+     color: blanchedalmond;
+    
+ }
+
+.navigacija {
+    padding-left: 10px;
+    padding-top: 30px;
+    
+}
+
+ .logo {
+     float: left;
+     border-radius: 60px;
+     border: 2px solid blanchedalmond;
+     
+ }
+ 
+ /* div{
+    border: thin;
+    border-radius: 2%;
+    box-shadow: 3px 3px 5px 3px gray;
+}   */
+
+
+ img.card-img-top{
+     width: 300px;
+ }
+ 
+fieldset {
+    text-align: start;
+    padding: 2%;
+    margin-left: 10px;
+}
+ 
+.life {
+    font-size: 40px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: floralwhite;
+    text-shadow: chocolate 5px 5px 5px;
+    
+} 
+
+h1, h2, h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    text-shadow: chocolate 3px 3px 5px;
+    color: rgb(197, 174, 139);
+    
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(197, 174, 139);
+}
+
+.card-text {
+    color: rgb(10, 10, 10);
+    font-weight: lighter;
+
+}
+.card-title { 
+font-weight: bolder;
+}
